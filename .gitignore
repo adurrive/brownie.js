@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Miscellaneous
+.DS_Store
+.Trashes
+.editorconfig
+.idea/
+.tmp
+lib-cov
+*~
+*.log

@@ -1,0 +1,1 @@
+brownieGetGraph(bindings.graph);

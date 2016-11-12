@@ -1,0 +1,1 @@
+brownieSearch(bindings.elementIdentifier, bindings.index, bindings.field, bindings.query, bindings.limit, bindings.offset, bindings.filter);

@@ -1,0 +1,46 @@
+{
+  "name": "brownie",
+  "version": "0.9.6",
+  "description": "Object-to-graph mapper for Titan 1.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adurrive/brownie.js"
+  },
+  "keywords": [
+    "gremlin",
+    "titan",
+    "graph",
+    "object-to-graph",
+    "tinkerpop3",
+    "database"
+  ],
+  "author": {
+    "name": "Alexandre Durrive",
+    "email": "ad@moseic.com"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/adurrive/brownie.js/issues"
+  },
+  "homepage": "https://github.com/adurrive/brownie.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "gremlin": "^2.3.2",
+    "lodash": "^4.16.6",
+    "node-uuid": "^1.4.7"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-config-dir": "^0.3.2",
+    "grunt-eslint": "^19.0.0",
+    "grunt-mocha-cli": "^2.1.0"
+  }
+}
