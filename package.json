@@ -1,6 +1,6 @@
 {
   "name": "brownie",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "description": "Object-to-graph mapper for Titan 1.0",
   "main": "index.js",
   "directories": {
