@@ -1,0 +1,26 @@
+# Global
+
+
+
+
+
+* * *
+
+### SingleCardinality() 
+
+SingleCardinality class
+
+
+
+
+* * *
+
+
+
+
+
+
+
+
+
+

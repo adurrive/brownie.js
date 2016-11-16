@@ -11,7 +11,6 @@ describe('settings', function() {
   });
   it('should have a valid settings object', function() {
     assert.deepEqual(settings.settings, {
-      log: settings.settings.log,
       connection: {
         port: 8182,
         host: 'localhost',
@@ -36,10 +35,10 @@ describe('settings', function() {
         offset: 0,
         limit: 10
       },
+      initialize: false,
       split: '|',
       trim: true,
-      initialize: false,
-      strict: false
+      log: settings.settings.log
     });
   });
   it('should have a set method', function() {

@@ -976,7 +976,7 @@ def brownieSaveGraph(Object $graph, Object $settings) {
 def brownieSearch(String $elementIdentifier, String $index, String $field, String $query, Integer $limit, Integer $offset, String $filter) {
   def Object $results;
 
-  // Get elastic search results
+  // Get Elasticsearch results
   $results = graph.indexQuery($index, $elementIdentifier + $field + ':(' + $query + ')' + $filter).setElementIdentifier($elementIdentifier).offset($offset).limit($limit).vertices();
 
   // Get response

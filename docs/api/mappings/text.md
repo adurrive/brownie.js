@@ -1,0 +1,26 @@
+# Global
+
+
+
+
+
+* * *
+
+### TextMapping() 
+
+TextMapping class
+
+
+
+
+* * *
+
+
+
+
+
+
+
+
+
+
