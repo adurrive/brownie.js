@@ -35,7 +35,8 @@
     "bluebird": "^3.4.6",
     "gremlin": "^2.3.2",
     "lodash": "^4.16.6",
-    "node-uuid": "^1.4.7"
+    "node-uuid": "^1.4.7",
+    "uuid": "^3.0.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
