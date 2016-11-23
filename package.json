@@ -1,6 +1,6 @@
 {
   "name": "brownie",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "description": "Object-to-graph mapper for Titan 1.0",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,9 @@
     "titan",
     "graph",
     "object-to-graph",
-    "tinkerpop3",
+    "mapper",
+    "ogm",
+    "tinkerpop",
     "database"
   ],
   "author": {
@@ -34,8 +36,7 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "gremlin": "^2.3.2",
-    "lodash": "^4.16.6",
-    "node-uuid": "^1.4.7",
+    "lodash": "^4.17.2",
     "uuid": "^3.0.0"
   },
   "devDependencies": {

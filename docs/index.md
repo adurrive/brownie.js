@@ -1,5 +1,3 @@
-[![NPM](https://nodei.co/npm/brownie.png?downloads=true)](https://nodei.co/npm/brownie/)
-
 Brownie.js
 ==========
 
